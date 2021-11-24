@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ja">
+ <head>
+   <meta charset="UTF-8">
+   <title>The Second Youth</title>
+
+   <link rel="stylesheet" type="text/css" href="stylesheets/index2.css">
+  </head>
+
+<body>
+    <header>
+    <div class="headimage2">
+        <div class="head-text">
+            私たちの思い | 授業について | 2大イベント | 参加までの流れ | 本アプリの機能 | よくあるご質問
+        </div>
+        <div class="home-title">
+            The Second Youth
+        </div>
+    </div>
+</header>
+
+<div class="first-block">
+    <section id="first-block">
+              <div class="small-title">
+                  ～ Our Message ～
+              </div>
+              <div class=first-container>
+              <div class="small-message">
+                  「あなたのもう一つの居場所をつくりたい」
+              </div>
+              <div class="tobihaneru">      
+              </div>
+              </div>
+          </section>
+      </div>
+
+      <div class="second-block">
+          <section id="second-block">
+              <div class="kokuban">
+                  <div class="kokuban-title">
+                      2度目の青春エンジョイしない？？
+                      
+                  </div>
+                  <div class="second-container">
+
+                      <div class="kokuban-text1">
+
+                          <b>〇授業</b>
+                          <br>
+                          <br>
+                          <b>・将来のためのスキルアップ講座</b>
+                          <br>
+                          <b>例:プレゼンスキル、お金の勉強 etc</b>
+                          <br>
+                          <br>
+                          <b>・趣味をみんなで楽しむ会</b>
+                          <br>
+                          <b>例:筋トレ、K-POP、ゲーム etc</b>
+                      </div>
+
+                      
+                    
+
+                      <div class="kokuban-text2">
+                          <b>〇イベント</b>
+                          <br>
+                          <br>
+                          <b>・体育祭</b>
+                          <br>
+                          <b>対面開催検討中</b>
+                          <br>
+                          <br>
+                          <b>・文化祭</b>
+                          <br>
+                          <b>映画製作、ダンス発表</b>
+                        
+                          </div>
+                        </div>
+                        <div class="second-container2">
+                          <div class="kokuban-text3">
+                                And more event!!
+                          </div>
+                         
+                          <div class="kesigomu">
+                        </div>
+                        </div>
+              </div>                    
+        </section> 
+      </div>
+
+      
+      <div class="third-block">
+        <section id="third-block">
+            <div class="youtube">
+          <iframe width="1000" height="600" src="https://www.youtube.com/embed/ZejkUZ2zTjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <br>
+            <br>
+            <div class ="button-part">
+
+                <div class="pink-maru">
+                    アプリへGO！
+                </div>
+
+                <a href="index.html">
+                <div class="bulu-maru">
+                    詳しくはこちら
+                </div>
+                </a>
+            </div>
+
+            <div class="tyouhoukei">
+                <div class=mark-part>
+                <div class="mark1">
+                    ★
+                </div>
+                <div class="mark2">
+                    ★
+                </div>
+                </div>
+
+                <div class="white-text1">
+                    ただ勉強するだけでない。<br>
+                </div>
+                <div class="white-text2">
+                    ただ遊ぶわけでもない。<br>
+                </div>
+                <div class="white-text3">
+                    今を楽しみ、未来を考える。
+            </div>
+            </div>
+      
+
+        <footer>
+            <div class="last-message">
+              © 2021 The Present for M. All Rights Reserved.
+            </div>
+          </footer>
+
+        </section>
+    </div>
+
+  </body>
+
+  </html>
