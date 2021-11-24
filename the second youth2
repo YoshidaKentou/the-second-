@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="ja">
+ <head>
+   <meta charset="UTF-8">
+   <title>The Second Youth</title>
+
+   <link rel="stylesheet" type="text/css" href="stylesheets/index.css">
+  </head>
+
+  <body>
+
+    
+
+      <header>
+          <div class="headimage2">
+            <div class="head-text">
+                私たちの思い | 授業について | 2大イベント | 参加までの流れ | 本アプリの機能 | よくあるご質問
+            </div>
+
+            <div class="home-title">
+            The Second Youth
+          </div>
+        </div>
+
+      </header>
+        
+
+<div class="zero-block">    
+<section id="zero-block">
+  
+
+    <div class="left-left">
+      <div class="setumei">
+        大学生になっても青春は
+        <br>
+        まだ終わらない。
+        <br>
+        仲間がいるともっと楽しい！
+      </div>
+      <div class=zero-container2>
+        <div class="kakumaru1">
+          ↓アプリの詳細へ
+        </div>
+        <div class="kakumaru2">
+          ダウンロード
+        </div>
+      </div>
+    </div>
+  
+    <div class="pink">
+    </div>
+  
+  
+
+
+</section>
+</div>
+
+<div class="first-block">
+  <section id="first-block">
+
+    <div class="about-container">
+
+      <div class="box1">
+        <p class="info-title">
+          アプリについて
+        </p>
+        </div>
+
+      <div class="box2">
+        <div class="logomatome1">
+        <div class="logo1"></div>
+      <div class="one-small">
+        
+        <br>
+        このアプリを通して同じ趣味や興味を持つ人で集まり、一緒に楽しく活動できます。
+        <br>
+        その活動を通してもう一度青春を感じてみませんか??
+        <br>
+        <br>
+        時間があって何かを始めたい方、自分と同じ趣味を持つ方との繋がりを作りたい方にぴったりです！
+        <br>
+      </div>
+      </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<div class="second-block">
+  <section id="second-block">
+
+    <div class="aabout-container">
+
+      <div class="box1-part2">
+        <p class="info-title">
+        　普段は何する？
+        </p>
+      </div>
+
+      <div class="second-container">
+
+
+        <div class="box3">
+          <p class="two-text">
+            <br>
+            <h4>オンライン授業</h4>
+          </p>
+            <div class="note-text1">
+              <br>
+              <p>大学にも！日常にも！活用できる！</p>
+              <p>個人の興味に合わせた授業（オンライン）</p>
+              </div>
+
+              <div class="zoom">
+              </div>
+
+              <div class="note-text2">
+              <p>毎週行われるメンバー間の交流を図ります。</p>
+              <p>これらは基本的に原則オンラインで開講します。</p>
+              <p>共通の志や趣味を持った人たちが繋がりあうことで、</p>
+              <p>楽しく、学びの時間を作り出します！</p>
+              <p>メンバーとともに自分の力を磨いてみませんか？</p>
+              <br>
+             </div>
+        </div>
+
+        <div class="box3">
+          <p class="two-text"> 
+            <br>
+            <h4>-講座内容-</h4>
+          </p>
+          <div class="kouza-setumei">
+            本アプリでは大きく2つの授業があります。
+          </div>
+
+            
+          <div class="note-container">
+          <div class="matome2">
+          <div class="skill-kouza">
+            スキルアップ講座
+          </div>
+          <div class="note-text3">
+            この講座では、社会に出て必要な知識
+            を学びあうことを目的としています。
+            社会人になる前に必要な知識を学び
+            かっこいい大人を目指しましょう！
+            <br>
+            <br>
+            投資/プレゼンスキル など
+          </div>
+          </div>
+
+          <div class="gurahu">
+          </div>
+        </div>
+
+          <div class="note-container2">
+            <div class="matome2">
+            <div class="syumi-kouza">
+              趣味講座
+            </div>
+            <div class="note-text3">
+              この講座では、共通の趣味を持った人達が集まって
+              一緒に趣味を深めていきます。
+              <br>
+              学校の休み時間に友達とわいわいするような感じで
+              授業といいつつも遊びが盛り込まれています。
+              <br>
+              気軽に参加できるのでお一人でも是非！
+              <br>
+              <br>
+              筋トレ/スポーツ観戦/メイク など
+            </div>
+            </div>
+
+        <div class="kinntore">
+        </div>
+    
+        
+        </div>
+
+      </div>
+
+    </div>
+
+
+  </section>
+</div>
+
+      <div class="third-container">
+        <div class="box3-part2">
+        <p class="two-text">
+          <b>≪授業の具体例≫</b>
+          <br>
+      <span class="ffont-small">
+        大学生からできる投資について学ぶ
+          </span>
+      </p>
+      <div class="kagaku">
+      </div>
+      </div>
+
+      <div class="box3-part3">
+      <p class="two-text">
+        <b>≪授業内容≫</b>
+        <br>
+      <span class="small-small">
+        <p>1 アイスブレイクタイム</p>
+        
+        <p>2 自分たちの参考にしているサイトの紹介</p>
+        
+        <p>3 自分の知識のプレゼン</p>
+        
+        <p>4 ディスカッション</p>
+        
+        <p>5 総合的に一番いいプレゼンをした人を表彰</p>
+        <div class="video">
+        
+          <iframe width="270" height="155" src="https://www.youtube.com/embed/ZejkUZ2zTjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      </span>
+      </p>
+      </div>
+      </div>
+      
+      
+      <div class="kakumaru3">
+        時間割を詳しく見る
+      </div>
+      
+
+
+  </section>
+</div>
+
+    <div class="third-block">
+      <section id="third-block">
+
+        <div class="aaabout-container">
+
+        <div class="box1-part3">
+        <p class="info-title">
+        季節ごとの楽しみ‼
+        </p> 
+        </div>
+
+      <div class="fourth-container">
+
+        <div class="box3-part4">
+
+          <p class="big-two-text">
+          <h4>年間イベント</h4>
+          <br>
+          </p>
+
+          <span class="ffont-small">
+          <h5>学校とは一味違う！！？メンバーと力を</h5>
+          <h5>合わせてイベントを頑張ろう！</h5>
+          <br>
+          <br>
+          </span>
+
+          <p style="text-align: left;" >
+          イベントとは？
+          <br>
+          <br>
+          </p>
+
+          <span  style="text-align: left;">
+          <p>みなさん、体育祭や文化祭で普段話さない子と仲良く</p>
+          
+          <p>なった経験はありませんか？</p>
+
+          <p>大学生になった今だからこそできる、</p>
+
+          <p>季節に合わせた楽しいイベントも開催します！</p>
+
+          <p>普段とは違う非日常体験をします。</p>
+          </span>
+
+          <div class="earth">
+          </div>
+
+        </div>
+
+        <div class="box3-part5">
+
+          <div class="note-container3">
+          <div class="matome3">
+          <p style="text-align: left;">
+          <br>
+          <br>
+          <h6>体育祭</h6>
+          <br>
+          </p>
+
+          <span style="text-align: left;">
+          <p>5月開催（対面型イベント）<p>
+          <p>リレーや100m走、綱引きなど、</p>
+          <p>懐かしい競技が盛り沢山！</p>
+          <p>対面で行われるため、</p>
+          <p>仲が深まるイベントにもなっています！</p>
+          <br>
+          </span>
+          </div>
+
+          <div class="run">
+          </div>
+          </div>
+
+          <div class="note-container3">
+            <div class="mtome3">
+          <span style="text-align: left;">
+          <br>
+          <h6>文化祭</h6>
+          <br>
+          </span>
+
+          <div class="note-text4">
+          10月開催（オンラインイベント）
+          <br>
+          皆が一丸となって成果物を完成させます！
+          <br>
+          選択肢は映画制作orダンス！
+          <br>
+          完成した時の達成感を味わいましょう！
+          </div>
+          </div>
+
+          <div class="kousaku">
+
+          </div>
+        </div>
+        </div>
+
+      </div>
+
+    </div>
+
+      </section>
+    </div>
+
+        <div class="fourth-block">
+          <section id="fourth-block">
+            <div class="box1-part4">
+              <p class="info-title">
+              アプリ内コンテンツ
+            </div>
+          </p>
+
+
+            <div class="four-container">
+              <div class="box4">
+              <div class="matome5">
+              <p class="four-text">
+                <h4>チャット</h4>
+                <br>
+              </p>
+              <div class="chatt-setumai">
+                授業時間外にコミュニティ内で
+                <br>
+                トークをする機能です。
+                <br>
+                セキュリティ面でも安全な環境で
+                <br>
+                コミュニケーションをとれます！
+                <br>
+              </div>
+              </div>
+
+              <div class="chatt">
+              </div>
+              
+              </div>
+              
+              <div class="box5">
+                <div class="matome5">
+            <p class="four-text">
+              <h4>フローチャート</h4>
+            <br>
+            <div class="chatt-setumai"> 
+                授業を選ぶために活用する機能です。
+                <br>
+                自分の興味・関心に合わせて授業を探すことができます。簡単に使えるので、
+                <br>
+                何をとるか悩んだ時にはフローチャートを使おう！
+            </div>
+            </p>
+            </div>
+
+            <div class="sensei">
+            </div>
+            </div>
+
+            <div class="box6">
+            <p class="four-text">
+              <h4>シェアルーム</h4>
+              <br>
+              <div class="chatt-setumai">
+                経験した出来事や1日の頑張りを投稿でき、
+                コメント出来る機能です。
+                モチベーションアップにも繋がり、切磋琢磨
+                できるので、ぜひ投稿してみましょう!
+              </div>
+            </p>
+            </div>
+
+          </section>
+        </p>
+        </div>
+
+        <div class="fifth-block">
+          <section id="fifth-block">
+            <div class="five-container">
+              <div class="sikaku">
+
+              </div>
+            <p class="five-text">
+              <h2> コミュニティ活動参加までのながれ </h2>
+              <br>
+
+              <div class="sikaku">
+                
+              </div>
+            </div>
+
+              <span class="five-small">
+                <div class="ennpitu">
+                <div class="five-container">
+                  <p>1.説明会（任意）</p>
+                  <p>2.アプリダウンロード</p>
+                  <p>3.授業・授業外コンテンツ</p>
+                  <p>4.イベント参加</p>
+                </div>
+                </div>
+              </span>
+
+              <span class="five-text">
+                <h5>1・＿＿＿＿＿＿＿＿＿</h5>
+                <h5>2・＿＿＿＿＿＿＿＿＿</h5>
+                <h5>3・＿＿＿＿＿＿＿＿＿</h5>
+                <h5>4・＿＿＿＿＿＿＿＿＿</h5>
+              </span>
+            </p>
+
+          </section>
+        </div>
+
+        <div class="sixth-block">
+          <section id="sixth-block">
+            <div class="five-container">
+            <div class="sikaku">
+
+            </div>
+          <p class="five-text">
+            <h2> よくあるご質問 </h2>
+            <br>
+
+            <div class="sikaku">
+              
+            </div>
+          </div>
+
+            <span class="five-text">
+              <h5>・ ＿＿＿＿＿＿＿＿＿</h5>
+              <h5>・ ＿＿＿＿＿＿＿＿＿</h5>
+              <h5>・ ＿＿＿＿＿＿＿＿＿</h5>
+              <h5>・ ＿＿＿＿＿＿＿＿＿</h5>
+            </span>
+          </section>
+
+          <div class="logo2"></div>
+
+        </div>
+
+
+        <footer>
+          <div class="last-message">
+            © 2021 The Present for M. All Rights Reserved.
+          </div>
+        </footer>
+
+  </body>
+</html>
